@@ -1,4 +1,4 @@
-# 📝 Task To-Do WebApp with Login & Authentication (v4)
+# 📝 Task To-Do WebApp with Login & Authentication 
 
 A full-stack **Task Management Web Application** built using **Node.js**, **Express**, **MongoDB**, and **Bootstrap**.  
 Users can register, log in, and manage their personal tasks — including setting deadlines, priorities, and optional descriptions.
@@ -121,8 +121,7 @@ task_todo_webapp_auth_v4/
 
 ## 👨‍💻 Author
 
-**Developed by:** *Sians Dragon*  
-🗓️ Version: 4.0 (November 2025)
+**Developed by:** Y.Sai Abhilash
 
 ## 📜 License
 
