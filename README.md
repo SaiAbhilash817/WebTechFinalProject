@@ -30,8 +30,8 @@ Users can register, log in, and manage their personal tasks — including settin
 
 ### 1️⃣ Clone or Download
 ```bash
-git clone https://github.com/yourusername/task_todo_webapp_auth_v4.git
-cd task_todo_webapp_auth_v4
+git clone https://github.com/SaiAbhilash817/task_todo_webapp_auth.git
+cd task_todo_webapp_auth
 ```
 
 ### 2️⃣ Install Dependencies
